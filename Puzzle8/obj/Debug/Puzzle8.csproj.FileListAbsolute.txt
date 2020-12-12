@@ -1,0 +1,107 @@
+C:\Users\oscar\Desktop\Puzzle8\Puzzle8\obj\Debug\Puzzle8.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\Puzzle8\Puzzle8\obj\Debug\Puzzle8.Properties.Resources.resources
+C:\Users\oscar\Desktop\Puzzle8\Puzzle8\obj\Debug\Puzzle8.csproj.GenerateResource.cache
+C:\Users\oscar\Desktop\Puzzle8\Puzzle8\bin\Debug\Puzzle8.exe.config
+C:\Users\oscar\Desktop\Puzzle8\Puzzle8\bin\Debug\Puzzle8.exe
+C:\Users\oscar\Desktop\Puzzle8\Puzzle8\bin\Debug\Puzzle8.pdb
+C:\Users\oscar\Desktop\Puzzle8\Puzzle8\obj\Debug\Puzzle8.Menuprincipal.resources
+C:\Users\oscar\Desktop\Puzzle8\Puzzle8\obj\Debug\Puzzle8.exe
+C:\Users\oscar\Desktop\Puzzle8\Puzzle8\obj\Debug\Puzzle8.pdb
+C:\Users\oscar\Desktop\Puzzle8\Puzzle8\obj\Debug\Puzzle8.modoManual.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\bin\Debug\Puzzle8.exe.config
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\bin\Debug\Puzzle8.exe
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\bin\Debug\Puzzle8.pdb
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\obj\Debug\Puzzle8.csprojAssemblyReference.cache
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\obj\Debug\Puzzle8.modoManual.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\obj\Debug\Puzzle8.menuPrincipal.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\obj\Debug\Puzzle8.Properties.Resources.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\obj\Debug\Puzzle8.Registro.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\obj\Debug\Puzzle8.Tabla.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\obj\Debug\Puzzle8.csproj.GenerateResource.cache
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\obj\Debug\Puzzle8.exe
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.7\Puzzle8.7\Puzzle8\obj\Debug\Puzzle8.pdb
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\bin\Debug\Puzzle8.exe.config
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\bin\Debug\Puzzle8.exe
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\bin\Debug\Puzzle8.pdb
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\obj\Debug\Puzzle8.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\obj\Debug\Puzzle8.modoManual.resources
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\obj\Debug\Puzzle8.menuPrincipal.resources
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\obj\Debug\Puzzle8.Properties.Resources.resources
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\obj\Debug\Puzzle8.Registro.resources
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\obj\Debug\Puzzle8.Tabla.resources
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\obj\Debug\Puzzle8.csproj.GenerateResource.cache
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\obj\Debug\Puzzle8.exe
+C:\Users\oscar\Desktop\Puzzle8.9\Puzzle8\obj\Debug\Puzzle8.pdb
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\obj\Debug\Puzzle8.csprojAssemblyReference.cache
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\obj\Debug\Puzzle8.modoManual.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\obj\Debug\Puzzle8.menuPrincipal.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\obj\Debug\Puzzle8.Properties.Resources.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\obj\Debug\Puzzle8.Registro.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\obj\Debug\Puzzle8.Tabla.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\obj\Debug\Puzzle8.csproj.GenerateResource.cache
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\obj\Debug\Puzzle8.exe
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\obj\Debug\Puzzle8.pdb
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\bin\Debug\Puzzle8.exe.config
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\bin\Debug\Puzzle8.exe
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.10\Puzzle8.10\Puzzle8\bin\Debug\Puzzle8.pdb
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\bin\Debug\Puzzle8.exe.config
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\bin\Debug\Puzzle8.exe
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\bin\Debug\Puzzle8.pdb
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.modoManual.resources
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.menuPrincipal.resources
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.Properties.Resources.resources
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.Registro.resources
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.Tabla.resources
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.csproj.GenerateResource.cache
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.exe
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.pdb
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.IngresarConfiguMeta.resources
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.IngresarConfiguInicio.resources
+C:\Users\oscar\Desktop\Puzzle8.13\Puzzle8\obj\Debug\Puzzle8.modoInteligente.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\bin\Debug\Puzzle8.exe.config
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\bin\Debug\Puzzle8.exe
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\bin\Debug\Puzzle8.pdb
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.csprojAssemblyReference.cache
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.IngresarConfiguInicio.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.IngresarConfiguMeta.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.modoInteligente.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.modoManual.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.menuPrincipal.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.Properties.Resources.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.Registro.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.Tabla.resources
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.csproj.GenerateResource.cache
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.exe
+C:\Uriel\Tarea escolar\Estructuras de datos\Proyecto Estructuras\Puzzle8.14oscar ultima\Puzzle8.14\Puzzle8\obj\Debug\Puzzle8.pdb
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\bin\Debug\Puzzle8.exe.config
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\bin\Debug\Puzzle8.exe
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\bin\Debug\Puzzle8.pdb
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.IngresarConfiguInicio.resources
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.IngresarConfiguMeta.resources
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.modoInteligente.resources
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.modoManual.resources
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.menuPrincipal.resources
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.Properties.Resources.resources
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.Registro.resources
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.Tabla.resources
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.csproj.GenerateResource.cache
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.exe
+C:\Users\oscar\Desktop\Puzzle8.17\Puzzle8\obj\Debug\Puzzle8.pdb
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\bin\Debug\Puzzle8.exe.config
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\bin\Debug\Puzzle8.exe
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\bin\Debug\Puzzle8.pdb
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.IngresarConfiguInicio.resources
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.IngresarConfiguMeta.resources
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.modoInteligente.resources
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.modoManual.resources
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.menuPrincipal.resources
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.Properties.Resources.resources
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.Registro.resources
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.Tabla.resources
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.csproj.GenerateResource.cache
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.exe
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.pdb
+C:\Users\oscar\Documents\3SEM\Estructura de datos (2.0)\Proyecto Final\Puzzle8.17.Full\Puzzle8\obj\Debug\Puzzle8.csproj.CoreCompileInputs.cache
